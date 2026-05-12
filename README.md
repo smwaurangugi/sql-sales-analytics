@@ -76,11 +76,7 @@ The database contains the following tables:
 
 
 
-```sql
 
-\\i Sales\_Analysis.sql
-
-```
 
 
 
