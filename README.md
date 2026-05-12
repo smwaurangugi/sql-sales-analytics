@@ -1,3 +1,4 @@
+
 \# SQL Sales \& Customer Analytics. 
 
 
@@ -83,4 +84,7 @@ The database contains the following tables:
 ```
 
 
+
+
+# sql-sales-analytics
 
