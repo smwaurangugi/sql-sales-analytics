@@ -1,9 +1,8 @@
 
-\# SQL Sales \& Customer Analytics. 
+# SQL Sales & Customer Analytics. 
 
 
-
-\## Overview
+## Overview
 
 This project contains SQL scripts for creating and analyzing a sales database using PostgreSQL.
 
@@ -11,69 +10,69 @@ This project contains SQL scripts for creating and analyzing a sales database us
 
 The project covers:
 
-\- Schema creation
+- Schema creation
 
-\- Table creation
+- Table creation
 
-\- Data insertion
+- Data insertion
 
-\- Subqueries
+- Subqueries
 
-\- Common Table Expressions (CTEs)
+- Common Table Expressions (CTEs)
 
-\- Window Functions
+- Window Functions
 
-\- Advanced analytical queries
+- Advanced analytical queries
 
 
 
-\## Database Schema
+## Database Schema
 
 The database contains the following tables:
 
-\- customers
+- customers
 
-\- products
+- products
 
-\- sales
+- sales
 
-\- inventory
-
-
-
-\## SQL Concepts Used
-
-\- JOINS
-
-\- AGGREGATE FUNCTIONS
-
-\- SUBQUERIES
-
-\- CTEs
-
-\- WINDOW FUNCTIONS
-
-\- RANKING FUNCTIONS
-
-\- ANALYTICAL QUERIES
+- inventory
 
 
 
-\## Technologies Used
+## SQL Concepts Used
 
-\- PostgreSQL
+- JOINS
 
-\- SQL
+- AGGREGATE FUNCTIONS
+
+- SUBQUERIES
+
+- CTEs
+
+- WINDOW FUNCTIONS
+
+- RANKING FUNCTIONS
+
+- ANALYTICAL QUERIES
 
 
 
-\## How to Run
+## Technologies Used
 
-1\. Create a PostgreSQL database
+- PostgreSQL
 
-2\. Open pgAdmin or psql
+- SQL
 
-3\. Run the SQL script:
+
+
+## How to Run
+
+1. Create a PostgreSQL database
+
+2. Open pgAdmin or psql
+
+3. Run the SQL script:
 
 
 
